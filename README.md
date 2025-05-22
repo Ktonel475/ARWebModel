@@ -1,12 +1,23 @@
-# React + Vite
+# 🌐 AR Web Model Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An Augmented Reality (AR) web application built with **Vite** + **React**, using **WebXR** to deliver immersive 3D experiences directly in the browser.
 
-Currently, two official plugins are available:
+> ⚙️ Hosted via **GitHub Pages**
+> 📦 Powered by modern frontend tools
+> 🕶️ WebXR for immersive AR rendering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View the App](https://your-username.github.io/ar-web-model/)
+_(replace with your actual GitHub Pages link)_
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡️ [Vite](https://vitejs.dev/) – lightning-fast dev server & bundler
+- ⚛️ [React](https://reactjs.org/) – UI library
+- 🌐 [WebXR](https://immersive-web.github.io/webxr/) – native AR/VR in web browsers
+- 🧪 [Three.js](https://threejs.org/) *(optional, if used for rendering 3D models)*
